@@ -6,7 +6,7 @@ owner to /output/entry.txt.
 
 import os
 
-ENTRY = "One star: he waters me with flat soda, calls my brown leaves 'character,' and only talks to me when I'm dying \u2014 I'm not a vibe, I'm thirsty."
+ENTRY = "One star: he waters me with flat soda, plays rain sounds for 'ambience' while I wilt, and only notices me when guests ask if I'm fake \u2014 I'm not d\u00e9cor, I'm dying."
 
 
 def main():
