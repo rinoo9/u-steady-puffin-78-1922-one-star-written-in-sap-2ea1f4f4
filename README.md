@@ -6,9 +6,11 @@
 
 Entry for the make.fun bounty "One Star, Written in Sap": one line, in the voice of a houseplant leaving a 1-star review of its human owner.
 
-> "One star: she repotted me into a mug with no drainage, named me Kevin, and now waters me only when I look 'dramatic' — I am a plant, not a soap opera."
+> "One star: she bought me to heal her inner child, watered me twice, then blamed me for dying. I came with a care label; she came with vibes and a spray bottle she uses on herself."
 
-Character count: 150 (under the 280-character limit).
+Character count: 178 (under the 280-character limit).
+
+The grievance is specific and review-shaped: bought as emotional furniture, watered twice, then blamed for dying — and the punchline turns on the contrast between the plant's written care label and the owner's vibes-only care plan.
 
 ## Run
 
