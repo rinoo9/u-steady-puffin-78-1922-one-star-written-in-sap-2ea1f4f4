@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty "One Star, Written in Sap": one line, in the voice of a houseplant leaving a 1-star review of its human owner.
 
-> "One star: he waters me with flat soda, plays rain sounds for 'ambience' while I wilt, and only notices me when guests ask if I'm fake — I'm not décor, I'm dying."
+> "One star: she repotted me into a mug with no drainage, named me Kevin, and now waters me only when I look 'dramatic' — I am a plant, not a soap opera."
 
-Character count: 161 (under the 280-character limit).
+Character count: 150 (under the 280-character limit).
 
 ## Run
 
