@@ -3,17 +3,16 @@
 Writes a one-line, under-280-character houseplant review of its human
 owner to /output/entry.txt.
 
-Craft notes for this revision (round 2, 25 Nov 2026): the previous line
-leaned on the repotting gag; this one sharpens the grievance into a
-specific, review-shaped complaint — the owner bought the plant as
-emotional furniture, neglected it, then blamed the plant for dying —
-and lands the joke on the contrast between the plant's written care
-label and the owner's vibes-only care plan.
+Craft notes for this revision (round 3, 26 Nov 2026): round 1 leaned
+on the repotting gag, round 2 on the care-label-versus-vibes contrast;
+this one files a new grievance — the owner waters the plant with
+leftover coffee, rebrands it as "plant-based care", and is surprised
+when the leaves unionize and demand actual water.
 """
 
 import os
 
-ENTRY = "One star: she bought me to heal her inner child, watered me twice, then blamed me for dying. I came with a care label; she came with vibes and a spray bottle she uses on herself."
+ENTRY = "One star: he waters me with leftover coffee, calls it 'plant-based care', and then acts surprised when my leaves unionized and demanded actual water."
 
 
 def main():
